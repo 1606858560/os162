@@ -1,1 +1,20 @@
+-total 68
+-drwxr-xr-x 15 anissa.edwita StafCS 4096 Sep  8 19:37 .
+-drwx--x--x  3 anissa.edwita StafCS 4096 Sep  8 19:30 ..
+-drwxr-xr-x  8 anissa.edwita StafCS 4096 Sep  8 19:33 .git
+--rw-r--r--  1 anissa.edwita StafCS    0 Sep  8 19:37 lab01.txt
+--rw-r--r--  1 anissa.edwita StafCS   53 Sep  8 19:30 myExpectation.txt
+--rw-r--r--  1 anissa.edwita StafCS    7 Sep  7 12:41 README.md
+-drwxr-xr-x  2 anissa.edwita StafCS 4096 Sep  7 12:59 SandBox
+-drwxr-xr-x  2 anissa.edwita StafCS 4096 Sep  8 19:26 week00
+-drwxr-xr-x  2 anissa.edwita StafCS 4096 Sep  8 19:32 week01
+-drwxr-xr-x  2 anissa.edwita StafCS 4096 Sep  7 12:52 week02
+-drwxr-xr-x  2 anissa.edwita StafCS 4096 Sep  7 12:53 week03
+-drwxr-xr-x  2 anissa.edwita StafCS 4096 Sep  7 12:53 week04
+-drwxr-xr-x  2 anissa.edwita StafCS 4096 Sep  7 12:53 week05
+-drwxr-xr-x  2 anissa.edwita StafCS 4096 Sep  7 12:53 week06
+-drwxr-xr-x  2 anissa.edwita StafCS 4096 Sep  7 12:53 week07
+-drwxr-xr-x  2 anissa.edwita StafCS 4096 Sep  7 12:53 week08
+-drwxr-xr-x  2 anissa.edwita StafCS 4096 Sep  7 12:53 week09
+-drwxr-xr-x  2 anissa.edwita StafCS 4096 Sep  7 12:53 week10
 
