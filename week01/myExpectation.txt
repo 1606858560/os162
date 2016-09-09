@@ -1,3 +1,2 @@
-#Anissa
-#class MTX162
-I hope I get an A of this OS class!
+#ostutorial
+I hope I get an A of this Operating System class!
