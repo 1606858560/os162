@@ -6,3 +6,4 @@ drwxr-xr-x 15 anissa.edwita StafCS 4096 Sep  9 08:26 ..
 -rw-r--r--  1 anissa.edwita StafCS   62 Sep  9 08:31 myExpectation.txt
 -rwxr-xr-x  1 anissa.edwita StafCS   79 Sep  9 08:43 what-time-script.sh
 /home/fasilkom/mahasiswa/a/anissa.edwita/os162/week01
+Today is 09 Sep 2016 at 08:50:17
